@@ -158,11 +158,9 @@ La date de la première ligne est celle du jour. Le formateur testera aussi votr
 
 ## Notre équipe
 
-| Rôle                  | Prénom et nom | Compte GitHub |
-| --------------------- | ------------- | ------------- |
-| Membre 1 — Parcelles  |               |               |
-| Membre 2 — Irrigation |               |               |
-| Membre 3 — Récoltes   |               |               |
-| Membre 4 — Données    |               |               |
-#   a g r i s u i v i - g r o u p e 0 5  
- 
+| Rôle | Prénom et nom | Compte GitHub |
+|---|---|---|
+| Membre 1 — Parcelles | Salifou Toure Ali | https://github.com/salifoutoureali23-star |
+| Membre 2 — Irrigation | COULIBALY DONIGUENA Salif | https://github.com/doniguenapro-ops |
+| Membre 3 — Récoltes | YAO Amoin Marie Jeanne | https://github.com/YaoMarieJeanne26 |
+| Membre 4 — Données | ZAMBLE BI BOTI JULES MARC | https://github.com/Marcboti |
